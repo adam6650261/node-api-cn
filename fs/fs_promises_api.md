@@ -1,7 +1,5 @@
 
 > Stability: 1 - Experimental
 
-The `fs.promises` API provides an alternative set of asynchronous file system
-methods that return `Promise` objects rather than using callbacks. The
-API is accessible via `require('fs').promises`.
+Promise API提供了一组可选的异步文件系统方法，这些方法返回Promise对象，而不是使用回调。API可以通过require('fs').promise访问.
 
